@@ -8,6 +8,12 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    private lazy var table: UITableView = {
+        let table = UITableView()
+        
+        return table
+    }()
 
     override func viewDidLoad() {
         super.viewDidLoad()
