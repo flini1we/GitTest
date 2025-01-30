@@ -12,6 +12,7 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("Modified from featured branch")
+        print("2")
         // Do any additional setup after loading the view.
     }
     
