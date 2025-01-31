@@ -11,7 +11,7 @@ class FourthViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        print("Hub commit")
         print("NEW feature")
         print("In the github")
         // Do any additional setup after loading the view.
